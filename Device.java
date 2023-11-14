@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * @author MacCoilleDara40091080
  * @version 28/09/2023
- *
+ * test
  */
 public class Device extends DeviceType {
 
